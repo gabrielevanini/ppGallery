@@ -1,8 +1,7 @@
 Commentary
 ==========
 
-Easily convert elisp file headers to markdown text. The file
-comment headers should be similar to this one.
+A usable and web accessible slideshow widget for your site using HTML, CSS, and JavaScript (jQuery). .
 
 Installation
 ============
