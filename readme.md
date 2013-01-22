@@ -17,3 +17,5 @@ Clicking on the index.html file will take out to a live demonstration of the plu
 Supported syntax
 ================
 
+I encourage you to contribute to ppGallery!
+Cheers!
