@@ -1,0 +1,48 @@
+/*
+ * jQuery ppGallery 1.0
+ *
+ * Copyright (c) 2012 Gabriele Vanini
+ * Licensed under the GPL license.
+ *
+ * http://www.gabrielevanini.altervista.org/
+ *
+ * Depends:
+ * jquery-1.8.x.min.js
+   Please use https://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js
+   ...or later
+*/
+
+body{ background-color:#ccc }
+#mainCont{ position:absolute }
+.scrollLeftPP{
+	float: left;
+    background: url(../images/arrow_left.png) no-repeat;
+    width: 45px;
+    height: 100px;
+    padding-right:40px;
+    cursor: pointer;
+}
+.scrollLeftPP_over{
+	float: left;
+    background: url(../images/arrow_left_over.png) no-repeat;
+    width: 45px;
+    height: 100px;
+    padding-right:40px;
+    cursor: pointer;
+}
+.scrollRightPP{
+	float: left;
+    background: url(../images/arrow_right.png) no-repeat;
+    width: 45px;
+    height: 100px;
+    margin-left:40px;
+    cursor: pointer;
+}
+.scrollRightPP_over{
+	float: left;
+    background: url(../images/arrow_right_over.png) no-repeat;
+    width: 45px;
+    height: 100px;
+    margin-left:40px;
+    cursor: pointer;
+}
