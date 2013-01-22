@@ -19,3 +19,5 @@ Supported syntax
 
 I encourage you to contribute to ppGallery!
 Cheers!
+
+©pixelPharm - ALL RIGHTS RESERVED
